@@ -3,7 +3,7 @@
 This repository contains a Python-based computational model of the **Reed-Solomon Erasure Coding** dependency used in Ethereum's PeerDAS (Data Availability Sampling) roadmap (Fusaka/Fectra).
 
 ## Research Note
-You can read the full research note and methodology here: **[[Link to your Mirror/HackMD article]](https://hackmd.io/@brownresearch/HJCxnRCAel)**
+You can read the full research note and methodology here: **[[Brown Research]](https://hackmd.io/@brownresearch/HJCxnRCAel)**
 
 ## Overview
 The goal of this simulation is to empirically verify the "Information Theoretic Threshold" of Ethereum blobs. It models:
